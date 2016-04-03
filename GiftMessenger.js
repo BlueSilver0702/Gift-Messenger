@@ -14,7 +14,7 @@ var GiftedMessenger = require('react-native-gifted-messenger');
 var Communications = require('react-native-communications');
 
 
-var GiftedMessengerExample = React.createClass({
+var GiftMessenger = React.createClass({
   
   getMessages() {
     return [
